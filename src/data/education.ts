@@ -1,0 +1,2 @@
+import type { EducationEntry } from "@/types";
+export const education: EducationEntry[] = [{ institution: "[Your Institution]", degree: "[Degree / Qualification]", department: "[Department / Subject]", startYear: "[YYYY]", endYear: "[YYYY]", description: "[Short description]" }];
